@@ -2057,3 +2057,5 @@ do
 		end
 	end
 end
+
+return(_G.scryptAPI)
